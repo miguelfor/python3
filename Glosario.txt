@@ -1,0 +1,2 @@
+Tasa de hash:Es una medida que denota el número de hashes que un minero puede realizar en un período de tiempo determinado (generalmente en un segundo).
+Tarifa de transacción:Una pequeña cuota impuesta a algunas transacciones enviados a través de la red Bitcoin. La tarifa de transacción se otorga a la minera que hashes con éxito el bloque que contiene la transacción correspondiente.
